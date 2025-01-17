@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table,td,tr,th{
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+	
+}
+
+th{
+	color: darkred;
+	background: grey;
+}
